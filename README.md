@@ -155,23 +155,7 @@ python Tokenization/tokenization.py
 
 ---
 
-## 🎯 Objective
 
-The objective of this repository is to demonstrate fundamental NLP preprocessing concepts through practical Python implementations and make the concepts easy to understand through code, output, and explanations.
-
----
-
-## 👩‍🏫 Academic Work
-
-This repository contains practical work related to the **Natural Language Processing (NLP)** course.
-
-**Instructor:** Ankita Sharma
-
----
-
-## 📌 Conclusion
-
-These fundamental preprocessing techniques form the foundation of many NLP applications, including text classification, sentiment analysis, information retrieval, search systems, and other language-processing tasks.
 
 ````
 
@@ -186,6 +170,3 @@ NLP
 └── 📁 Lemmatization
 ````
 
-And when someone opens the repository, the README immediately explains **what the repository contains, what each folder does, the workflow, technologies, and how to run the code**.
-
-One small recommendation: keep the instructor line as **“Instructor: Ankita Sharma”** only if that is how Ma'am wants her name represented publicly on the repository.
